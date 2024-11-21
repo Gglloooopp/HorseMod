@@ -4,6 +4,8 @@
 
 **Adds Horses.**
 
+Original Concept by [@noctesolis](https://www.tiktok.com/@noctesolis)
+
 ## Requires
 
 [Lure](https://github.com/Sulayre/WebfishingLure) 

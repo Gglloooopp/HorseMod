@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/neigh.ogg-59ed573a0bc109e1e4a09b0c056152d2.oggstr"
+
+[deps]
+
+source_file="res://mods/HorseMod/Sounds/neigh.ogg"
+dest_files=[ "res://.import/neigh.ogg-59ed573a0bc109e1e4a09b0c056152d2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/huff.ogg-cdd3046d6d365c6d6f53530bbb4e0644.oggstr"
+
+[deps]
+
+source_file="res://mods/HorseMod/Sounds/huff.ogg"
+dest_files=[ "res://.import/huff.ogg-cdd3046d6d365c6d6f53530bbb4e0644.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

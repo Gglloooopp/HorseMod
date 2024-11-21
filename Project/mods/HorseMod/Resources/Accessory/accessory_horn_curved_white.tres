@@ -1,0 +1,28 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods/HorseMod/Assets/Textures/icon8.png" type="Texture" id=1]
+[ext_resource path="res://Assets/Materials/white.tres" type="Material" id=2]
+[ext_resource path="res://mods/HorseMod/Assets/accessory_hornc.tres" type="ArrayMesh" id=3]
+[ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=4]
+[ext_resource path="res://Assets/Models/Cosmetics/rig_main_updated.tres" type="Skin" id=5]
+
+[resource]
+script = ExtResource( 4 )
+name = "White Curved Horn"
+desc = "Curvy!"
+title = ""
+icon = ExtResource( 1 )
+mesh = ExtResource( 3 )
+species_alt_mesh = [  ]
+mesh_skin = ExtResource( 5 )
+material = ExtResource( 2 )
+main_color = Color( 1, 0.933333, 0.835294, 1 )
+body_pattern = [  ]
+mirror_face = true
+flip = false
+allow_blink = true
+category = "accessory"
+cos_internal_id = 0
+in_rotation = false
+chest_reward = false
+cost = 10
